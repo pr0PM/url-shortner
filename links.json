@@ -30,5 +30,13 @@
     {
         "name": "slides",
         "url": "https://speakerdeck.com/pr0pm"
+    },
+    {
+        "name": "tc",
+        "url": "https://www.twitch.tv/popout/prat__k/chat?popout"
+    },
+    {
+        "name": "tv",
+        "url": "https://www.twitch.tv/prat__k/"
     }
 ]
