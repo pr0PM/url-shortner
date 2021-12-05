@@ -15,7 +15,7 @@ def main():
     os.mkdir('dist')
 
     with open('dist/CNAME', 'w') as f:
-        f.write('pr0pm.in')
+        f.write('url.pr0pm.in')
 
     for link in links:
         html_document = html.format(url=link['url'])
